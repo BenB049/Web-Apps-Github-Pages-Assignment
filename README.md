@@ -17,12 +17,14 @@ I am a senior at NWMSU pursuing my Bachelor's degree in Applied Computer Science
 - Selection 
 - Insertion 
 - Bubble 
-- Exchange
+- Radix
 
 ![Sorting Algorithms](sorting.png)
 
 [This is my LinkedIn](https://www.linkedin.com/in/benjamin-brown-0961b1170)
+
 [This is my GitHub](https://github.com/BenB049)
+
 [A helpful website](https://www.google.com)
 
 
